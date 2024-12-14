@@ -5,7 +5,7 @@ import logging
 logging.basicConfig(level=logging.INFO,
                     format='[%(asctime)s]: %(message)s:')
 
-project_name = 'object-detection-practice'
+project_name = 'object_detection_practice'
 
 list_of_files = [
     "data/.gitkeep",
